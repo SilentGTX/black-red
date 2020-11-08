@@ -1,0 +1,19 @@
+{
+  "name": "chernocherveno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentGTX/black-red.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilentGTX/black-red/issues"
+  },
+  "homepage": "https://silentgtx.github.io/black-red/"
+}
