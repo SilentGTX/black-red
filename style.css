@@ -1,0 +1,123 @@
+.bet:focus {
+    outline: none;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container-all {
+    background-image: url(https://mubz.bg/images/blackred/textura_old_cloth_new.jpg);
+    border: 1px solid black;
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-row-0 {
+    display: flex;
+    justify-content: center;
+    color: #554229;
+}
+
+.red-text {
+    color: black;
+}
+
+.black-text {
+    color: red;
+}
+
+.flex-row-1 {
+    color: #554229;
+}
+
+.flex-row-2 {
+    display: flex;
+    justify-content: center;
+    background-color: #a3947d;
+    color: #F8EAD4;
+    border-bottom: 0px solid black;
+    border-top: 1px solid black;
+}
+
+.flex-row-4 {
+    border-top: 1px solid black;
+}
+
+.flex-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #554229;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-red {
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.credits {
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(201, 8, 201);
+    background-image: url(https://mubz.bg/images/blackred/textura_old_cloth_new.jpg);
+    font: bold;
+}
+
+.profit {
+    width: 50px;
+    height: 20px;
+    font-size: 20px;
+    background-image: url(https://mubz.bg/images/blackred/textura_old_cloth_new.jpg);
+    font: bold;
+    border: 0px;
+    color: black;
+}
+
+.record {
+    width: 50px;
+    height: 20px;
+    font-size: 20px;
+    background-image: url(https://mubz.bg/images/blackred/textura_old_cloth_new.jpg);
+    font: bold;
+    border: 0px;
+    color: black;
+}
+
+.table-credits {
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #a3947d;
+    font: bold;
+    border: 0px;
+    color: #F8EAD4;
+}
+
+.you-won {
+    color: green;
+}
+
+.you-lose {
+    color: red;
+}
